@@ -40,3 +40,6 @@ let pokeArray = [{
 }]
 
 console.log(pokeSort(pokeArray, 'name'));
+
+
+module.exports = pokeSort;
